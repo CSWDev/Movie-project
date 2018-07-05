@@ -1,0 +1,11 @@
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.deps.json
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.runtimeconfig.json
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.runtimeconfig.dev.json
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.dll
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.csprojAssemblyReference.cache
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.csproj.CoreCompileInputs.cache
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.AssemblyInfoInputs.cache
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.AssemblyInfo.cs
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\bin\Debug\netcoreapp2.0\MVCMovie.pdb
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.dll
+C:\Users\Cei\source\repos\MVCMovie\MVCMovie\obj\Debug\netcoreapp2.0\MVCMovie.pdb
